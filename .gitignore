@@ -4,7 +4,7 @@ __pycache__/
 venv/
 .DS_Store
 # model besar - unggah manual / lewat release
-models/*.pt
+#models/*.pt
 !models/README.md
 runs/
 runs_road/
